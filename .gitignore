@@ -1,0 +1,5 @@
+# dependencies
+antdesign/node_modules
+
+# production
+antdesign/build
