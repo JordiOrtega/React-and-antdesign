@@ -3,3 +3,5 @@ antdesign/node_modules
 
 # production
 antdesign/build
+
+npm-debug.log
